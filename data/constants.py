@@ -6,7 +6,7 @@ SCREEN_WIDTH = 800
 
 SCREEN_SIZE = (SCREEN_WIDTH, SCREEN_HEIGHT)
 
-TITLE = "Super Mário Bross - WWW.HUGOCURSOS.COM.BR"
+TITLE = "Super Mário Bross - desenvolved by Diego Vinicius de Mello Munhoz"
 
 #CORES RGB
 WHITE = (255, 255, 255)
